@@ -33,6 +33,9 @@ Males are high users during the peak hours.
 Males subscribers are the highest users followed by female subscribers. 
 ![Pic5](https://github.com/zhangkevq/bikesharing/blob/main/images/trips_by_gender_by_weekday.png)
 
+## Additional Analyses
+[Tableau story from Module](https://public.tableau.com/views/NYCCitiBikesharingmod17/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ### 6. Average Trip duration by Age
 Younger people generally have longer average trip duration. There are some outliers, some years that shouldn't be valid (such as pre-1900s)
 ![Pic6](https://github.com/zhangkevq/bikesharing/blob/main/images/avg_tripdura_age.png)
@@ -40,4 +43,10 @@ Younger people generally have longer average trip duration. There are some outli
 ### 7. Density Map of Checkouts
 Most bike checkouts appear to center around NYC downtown, fewer checkouts as you get further out
 ![Pic7](https://github.com/zhangkevq/bikesharing/blob/main/images/density_map.png)
+
+## Summary:
+
+1. Bike Repairs for 1/3 of the Citibikes need to be done during non-peak hours around 1-5 am. 
+2. Male subscribers are the highest users and follow the traditional high use times of travel to and from work.  
+3. Target market should be males needing transportation to work and weekend activities and push for subscribing to the services. 
 
